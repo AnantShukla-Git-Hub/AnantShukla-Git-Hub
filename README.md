@@ -163,31 +163,22 @@ Python-based task management and contribution tracking application.
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
 ## 💻 Languages & Technologies
 
-<img src="https://skillicons.dev/icons?i=cpp,html,python,js,ts,react,nextjs,tailwind,fastapi,nodejs,supabase,git,vscode,vercel&perline=7" />
+<img src="https://skillicons.dev/icons?i=cpp,html,python,js,ts,react,nextjs,tailwind,vite,fastapi,nodejs,supabase,git,vscode,vercel&perline=5" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<div style="margin: 40px 0;">
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnantShukla-Git-Hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantShukla-Git-Hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantShukla-Git-Hub&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-
-</div>
+## 🚀 Featured Projects
 
 
