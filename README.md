@@ -29,9 +29,10 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-<td width="50%">
+<td width="50%" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.02);">
+
 
 ### 🤖 Saransh Setu
 **AI Assistant for Indian Government**
@@ -47,7 +48,8 @@ AI-powered intelligence assistant for Indian Government Officials. 100% offline,
 [🔗 View Project](https://github.com/AnantShukla-Git-Hub/Saransh-Setu-App)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.02);">
+
 
 ### 🎓 IET Akashvani
 **College Social Platform**
@@ -65,7 +67,7 @@ Exclusive social platform for IET Lucknow students with real-time discussions, n
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.02);">
 
 ### 🥷 Ninja Anant
 **Browser Extension**
@@ -80,7 +82,8 @@ Custom browser extension with encryption/decryption capabilities for secure mess
 [🔗 View Project](https://github.com/AnantShukla-Git-Hub/ninja-anant)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.02);">
+
 
 ### 🔐 Extension Encrypt Decrypt
 **Security Tool**
@@ -97,7 +100,7 @@ Browser extension for text encryption and decryption with modern cryptography.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.02);">
 
 ### 📹 YTVideoDownloader
 **YouTube Downloader**
@@ -112,7 +115,8 @@ Python-based YouTube video downloader with clean interface.
 [🔗 View Project](https://github.com/AnantShukla-Git-Hub/YTVideoDownloader)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.02);">
+
 
 ### 💼 NirikshakAI
 **Corporate Credit Appraisal**
@@ -130,7 +134,7 @@ AI-powered credit appraisal system for Indian banking with automated risk analys
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.02);">
 
 ### 🌐 CLInetworking
 **Command Line Networking Tool**
@@ -145,7 +149,8 @@ C++ based CLI tool for networking operations and protocols.
 [🔗 Private Repository](https://github.com/AnantShukla-Git-Hub/CLInetworking)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.02);">
+
 
 ### ✅ Task Contribution App
 **Task Management System**
@@ -174,11 +179,5 @@ Python-based task management and contribution tracking application.
 <img src="https://skillicons.dev/icons?i=cpp,html,python,js,ts,react,nextjs,tailwind,vite,fastapi,nodejs,supabase,git,vscode,vercel&perline=5" />
 
 </div>
-
----
-
-<div style="margin: 40px 0;">
-
-## 🚀 Featured Projects
 
 
