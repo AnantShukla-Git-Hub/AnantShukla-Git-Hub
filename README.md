@@ -36,7 +36,7 @@
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
 
-### 🤖 Saransh Setu
+###  Saransh Setu
 **AI Assistant for Indian Government**
 
 AI-powered intelligence assistant for Indian Government Officials. 100% offline, supports 11 Indian languages.
@@ -47,10 +47,10 @@ AI-powered intelligence assistant for Indian Government Officials. 100% offline,
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
 
-### 🎓 IET Akashvani
-**College Social Platform**
+### Vani
 
-Exclusive social platform for IET Lucknow students with real-time discussions, notes/PYQ hub, and placement alerts.
+
+
 
 [🔗 Private Repository](https://github.com/AnantShukla-Git-Hub/IET_Akashvani)
 
@@ -59,10 +59,9 @@ Exclusive social platform for IET Lucknow students with real-time discussions, n
 <tr>
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
-### 🥷 Ninja Anant
+###  Ninja Anant
 **Browser Extension**
 
-Custom browser extension with encryption/decryption capabilities for secure messaging.
 
 [🔗 View Project](https://github.com/AnantShukla-Git-Hub/ninja-anant)
 
@@ -83,7 +82,7 @@ Browser extension for text encryption and decryption with modern cryptography.
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
 ### 📹 YTVideoDownloader
-**YouTube Downloader**
+**YouTube Downloader -- just for learning nothing new!!**
 
 Python-based YouTube video downloader with clean interface.
 
@@ -93,10 +92,9 @@ Python-based YouTube video downloader with clean interface.
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
 
-### 💼 NirikshakAI
-**Corporate Credit Appraisal**
+### Niri
 
-AI-powered credit appraisal system for Indian banking with automated risk analysis.
+
 
 [🔗 Private Repository](https://github.com/AnantShukla-Git-Hub/NirikshakAI)
 
@@ -106,9 +104,9 @@ AI-powered credit appraisal system for Indian banking with automated risk analys
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
 ### 🌐 CLInetworking
-**Command Line Networking Tool**
+**Tool**
 
-C++ based CLI tool for networking operations and protocols.
+Tool for sharing files across multiple OS
 
 [🔗 Private Repository](https://github.com/AnantShukla-Git-Hub/CLInetworking)
 
@@ -117,7 +115,7 @@ C++ based CLI tool for networking operations and protocols.
 
 
 ### ✅ Task Contribution App
-**Task Management System**
+**Task Management System --just for fun nothing new!**
 
 Python-based task management and contribution tracking application.
 
