@@ -29,7 +29,7 @@
 
 <div style="margin: 50px 0; padding: 40px 20px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.03) 0%, rgba(139, 92, 246, 0.03) 100%); border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);">
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table style="border-collapse: separate; border-spacing: 15px;">
 <tr>
@@ -69,7 +69,7 @@ AI-powered intelligence assistant for Indian Government Officials. 100% offline,
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
 
-### 🔐 Extension Encrypt Decrypt
+###  Extension Encrypt Decrypt
 **Security Tool**
 
 Browser extension for text encryption and decryption with modern cryptography.
@@ -103,7 +103,7 @@ Python-based YouTube video downloader with clean interface.
 <tr>
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
-### 🌐 CLInetworking
+###  CLInetworking
 **Tool**
 
 Tool for sharing files across multiple OS
@@ -114,7 +114,7 @@ Tool for sharing files across multiple OS
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
 
-### ✅ Task Contribution App
+###  Task Contribution App
 **Task Management System --just for fun nothing new!**
 
 Python-based task management and contribution tracking application.
@@ -131,7 +131,7 @@ Python-based task management and contribution tracking application.
 
 <div align="center" style="margin: 40px 0; padding: 40px 20px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.03) 0%, rgba(139, 92, 246, 0.03) 100%); border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);">
 
-## 💻 Languages & Technologies
+##  Languages & Technologies
 
 <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,react,nodejs,git&perline=5" style="box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4); border-radius: 20px; padding: 25px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); border: 1px solid rgba(59, 130, 246, 0.3);"/>
 
