@@ -47,18 +47,6 @@ AI-powered intelligence assistant for Indian Government Officials. 100% offline,
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
 
-### Vani
-
-
-
-
-[🔗 Private Repository](https://github.com/AnantShukla-Git-Hub/IET_Akashvani)
-
-</td>
-</tr>
-<tr>
-<td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
-
 ###  Ninja Anant
 **Browser Extension**
 
@@ -81,28 +69,6 @@ Browser extension for text encryption and decryption with modern cryptography.
 <tr>
 <td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
 
-### 📹 YTVideoDownloader
-**YouTube Downloader -- just for learning nothing new!!**
-
-Python-based YouTube video downloader with clean interface.
-
-[🔗 View Project](https://github.com/AnantShukla-Git-Hub/YTVideoDownloader)
-
-</td>
-<td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
-
-
-### Niri
-
-
-
-[🔗 Private Repository](https://github.com/AnantShukla-Git-Hub/NirikshakAI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" style="border: 1px solid rgba(59, 130, 246, 0.3); padding: 20px; border-radius: 12px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 20px rgba(59, 130, 246, 0.1); transition: all 0.3s ease; backdrop-filter: blur(10px);">
-
 ###  CLInetworking
 **Tool**
 
@@ -115,9 +81,8 @@ Tool for sharing files across multiple OS
 
 
 ###  Task Contribution App
-**Task Management System --just for fun nothing new!**
+**Task Management System **
 
-Python-based task management and contribution tracking application.
 
 [🔗 View Project](https://github.com/AnantShukla-Git-Hub/task-contribution-app)
 
